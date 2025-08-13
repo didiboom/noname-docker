@@ -15,7 +15,7 @@
 ```bash
 wget https://github.com/libnoname/noname/archive/refs/tags/v1.10.17.3.zip -O noname-1.10.17.3.zip
 unzip noname-1.10.17.3.zip
-wget https://github.com/ljm895292719/noname-docker/archive/refs/tags/v1.10.17.3.zip -O noname-docker-1.10.17.3.zip
+wget https://github.com/didiboom/noname-docker/archive/refs/tags/v1.10.17.3.zip -O noname-docker-1.10.17.3.zip
 unzip noname-docker-1.10.17.3.zip
 cd noname-docker-1.10.17.3
 cp -r * ../noname-1.10.17.3
